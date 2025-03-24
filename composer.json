@@ -1,18 +1,17 @@
 {
-    "name": "joetannenbaum/alfred-workflow",
+    "name": "tamaratampinski/alfred-workflow",
     "description": "PHP helper for creating Alfred Workflows.",
     "license": "MIT",
     "authors": [
         {
             "name": "Joe Tannenbaum",
             "email": "joe@joe.codes"
+        },
+        {
+            "name": "Thomas Grund",
+            "email": "tgrund@gmail.com"
         }
     ],
-    "homepage": "https://joe.codes",
-    "support": {
-        "source": "https://github.com/joetannenbaum/alfred-workflow",
-        "issues": "https://github.com/joetannenbaum/alfred-workflow/issues"
-    },
     "require": {
         "php": "^7.4.0||^8.0",
         "ext-json": "*"
